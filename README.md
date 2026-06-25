@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="banner" width="100%">
+
+</div>
 
 <div>
   <a href="https://github.com/Tr1ndad3">
