@@ -4,12 +4,16 @@
 <img src="banner" width="100%">
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td>
       <a href="https://github.com/Tr1ndad3">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tr1ndad3&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&border_color=444444&title_color=ffffff&text_color=cccccc&icon_color=ffffff"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1ndad3&layout=compact&langs_count=16&bg_color=0a0a0a&border_color=444444&title_color=ffffff&text_color=cccccc"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tr1ndad3&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&border_color=444444&title_color=ffffff&text_color=cccccc&icon_color=ffffff"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Tr1ndad3">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1ndad3&layout=compact&langs_count=16&bg_color=0a0a0a&border_color=444444&title_color=ffffff&text_color=cccccc"/>
       </a>
     </td>
     <td valign="middle" align="center">
