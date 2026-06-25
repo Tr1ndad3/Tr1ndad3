@@ -17,4 +17,4 @@
 
 </div>
 
-![Minha foto](photo.png)
+<img src="photo.png" width="180" align="right">
