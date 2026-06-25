@@ -13,7 +13,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Tr1ndad3" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img src="photo.png" width="180" align="right">
+  
 </div>
 
-<img src="photo.png" width="180" align="right">
+
