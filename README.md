@@ -1,16 +1,44 @@
-## Hi there 👋
+## Olá!! 
 
-<!--
-**Tr1ndad3/Tr1ndad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/Tr1ndad3">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tr1ndad3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1ndad3&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="Tr1ndad3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+  <img align="right" alt="Tr1ndad3"
+
+</div>
+
+##
+
+<div>
+
+
+  ![Snake animation](https://github.com/rafaballerini/Tr1ndad3/blob/output/github-contribution-grid-snake.svg)
+
+</div>
