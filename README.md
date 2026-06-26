@@ -35,6 +35,6 @@
 <div align="right">
   <img src="photo.png" width="180">
 </div>
-<div align="right">
+<div align="left">
   <img src="1000094752.gif" width="180">
 </div>
