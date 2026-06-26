@@ -33,10 +33,13 @@
 </div>
 
 <div align="center">
-  <img src="1000094758 (1).gif" width="180">
-  <img src="1000094752.gif" width="180">
-  <img src="1000094759.gif" width="180">
-  <img src="1000094775.gif" width="180">
-  <img src="1000094776.gif" width="180">
+  <table border="0" cellspacing="0" cellpadding="4">
+    <tr>
+      <td><img src="1000094758 (1).gif" width="130"></td>
+      <td><img src="1000094752.gif" width="130"></td>
+      <td><img src="1000094759.gif" width="130"></td>
+      <td><img src="1000094775.gif" width="130"></td>
+      <td><img src="1000094776.gif" width="130"></td>
+    </tr>
+  </table>
 </div>
-
