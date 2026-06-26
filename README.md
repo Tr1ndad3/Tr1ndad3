@@ -32,7 +32,6 @@
   <img src="https://raw.githubusercontent.com/Tr1ndad3/Tr1ndad3/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
-
 <div align="right">
   <img src="photo.png" width="180">
 </div>
