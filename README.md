@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/Tr1ndad3/Tr1ndad3/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
-  <img src="1000094752.gif" width="180">
+  <img src="1000094752.gif" width="180"> <img src="1000094753.gif" width="180"> <img src="1000094754.gif" width="180">
 
 
    <img src="photo.png" width="180">
