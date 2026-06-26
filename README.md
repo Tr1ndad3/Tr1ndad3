@@ -33,10 +33,10 @@
 </div>
 
 <div align="center">
-  <img src="1000094758 (1).gif" width="135">
-  <img src="1000094752.gif" width="135">
-  <img src="1000094759.gif" width="135">
-  <img src="1000094775.gif" width="135">
-  <img src="1000094776.gif" width="135">
+  <img src="1000094758 (1).gif" width="140">
+  <img src="1000094752.gif" width="140">
+  <img src="1000094759.gif" width="140">
+  <img src="1000094775.gif" width="140">
+  <img src="1000094776.gif" width="140">
 </div>
 
