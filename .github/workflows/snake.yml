@@ -13,7 +13,8 @@ jobs:
         with:
           github_user_name: Tr1ndad3
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23888888&color_dots=%23111111,%23ffffff,%23ffffff,%23ffffff,%23ffffff&color_border=%23222222
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -23,6 +24,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 
