@@ -34,5 +34,3 @@
 
   <img src="1000094752.gif" width="180"> <img src="1000094754.gif" width="188"> <img src="1000094753.gif" width="199"> 
 
-
-   <img src="photo.png" width="180">
