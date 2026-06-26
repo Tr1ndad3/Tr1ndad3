@@ -32,5 +32,11 @@
   <img src="https://raw.githubusercontent.com/Tr1ndad3/Tr1ndad3/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
-<img src="1000094758 (1).gif" width="180"> <img src="1000094752.gif" width="180"> <img src="1000094759.gif" width="180"> <img src="1000094775.gif" width="180"> <img src="1000094776.gif" width="180">
+<div align="center">
+  <img src="1000094758 (1).gif" width="180">
+  <img src="1000094752.gif" width="180">
+  <img src="1000094759.gif" width="180">
+  <img src="1000094775.gif" width="180">
+  <img src="1000094776.gif" width="180">
+</div>
 
